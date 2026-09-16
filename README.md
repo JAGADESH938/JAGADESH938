@@ -23,7 +23,7 @@ I build practical AI-driven applications using Python, machine learning, deep le
 
 **Computer Vision:** OpenCV, CNNs
 
-**Backend:** FastAPI, Flask
+**Backend:** FastAPI, Flask, Spring Boot
 
 **Databases:** MySQL
 
@@ -56,5 +56,5 @@ Computer-vision based system for detecting traffic-related violations and safety
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/jvjr111/) • [email](jagadeswarreddyjakku@gmail.com)
 
