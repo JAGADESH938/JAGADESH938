@@ -7,8 +7,8 @@
 I build practical AI-driven applications using Python, machine learning, deep learning, computer vision, and LLM-based technologies.
 
 * 🔭 Currently building: AI-powered applications and production-oriented ML systems
-* 🌱 Currently learning: PyTorch, NLP, RAG, Generative AI, FastAPI and AI engineering
-* 💻 Interested in: AI/ML Engineering, Generative AI, Computer Vision and intelligent Automation, langChain, LangGraph
+* 🌱 Currently learning: PyTorch, NLP, RAG, Generative AI, FastAPI and AI Engineering
+* 💻 Interested in: AI/ML Engineering, Generative AI, Computer Vision and intelligent Automation, LangChain, LangGraph
 * 📫 Open to: AI/ML Engineer, AI Engineer and Python-based opportunities
 
 ## 🛠️ Tech Stack
